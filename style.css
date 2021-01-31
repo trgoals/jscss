@@ -295,3 +295,7 @@ background: #1f6bdc;
 .icofont-field-alt {
   color: #e00808;
 }
+
+@media only screen and (max-width: 600px) {
+	.mobildegizlen {display:none}
+}
