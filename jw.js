@@ -26,7 +26,7 @@ var jwDefaults = {
   "height": 270,
   "key": "9AQm80Uv2AtOnOljO1AsOTkXluTNpX0o+b9esqakurGAxUuEgsF6gA5DI8Yt2PIa",
   "logo": {
-    "file": "https://assets-jpcust.jwpsrv.com/watermarks/Zgkdr4Y4.png",
+    "file": "https://1.bp.blogspot.com/-WcxUR4GVxbk/YEEC9XvmQCI/AAAAAAAAAh8/JqDFKIsaGfE7Bt75_BwpgvzOyi_2JeV2QCLcBGAsYHQ/s1600/logo.png",
     "hide": false,
     "link": "https://t.me/trgoals",
     "margin": "10",
