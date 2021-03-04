@@ -24,7 +24,7 @@ var jwDefaults = {
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.19.0/jwplayer.flash.swf",
   "height": 270,
-  "key": "9m3myTMywNKYvU734oIk1iqEO5FDJhr0Rztc7rFBqQVociCB3s8c7n9q/FJEyrJP",
+  "key": "9AQm80Uv2AtOnOljO1AsOTkXluTNpX0o+b9esqakurGAxUuEgsF6gA5DI8Yt2PIa",
   "logo": {
     "file": "https://assets-jpcust.jwpsrv.com/watermarks/Zgkdr4Y4.png",
     "hide": false,
@@ -47,7 +47,7 @@ var jwDefaults = {
     },
     "menus": {
       "background": "#272A2F",
-      "text": "#272A2F",
+      "text": "#38426B",
       "textActive": "#38426B"
     },
     "timeslider": {
